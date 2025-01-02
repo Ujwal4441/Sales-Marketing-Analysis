@@ -19,3 +19,11 @@ Enhanced decision-making for sales and marketing strategies.
 Improved inventory management through trend analysis.
 
 Insights into customer behavior and segmentation.
+
+## Screenshots : 
+
+![Screenshot 2025-01-02 191132](https://github.com/user-attachments/assets/cffac0b3-4950-4856-b5d4-d8493121d619)
+
+![Screenshot 2025-01-02 191145](https://github.com/user-attachments/assets/ab29d5ea-b688-42a1-8a94-fa9ef1e75bd0)
+
+![Screenshot 2025-01-02 191155](https://github.com/user-attachments/assets/d2b83d84-5e72-47dd-b83a-3d34bbfbe04d)
